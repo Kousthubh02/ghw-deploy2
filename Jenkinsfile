@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Echo Hello World') {
             steps {
-                echo 'Hello, Jenkins!'
+                echo 'Hello, jenkins , this is kousthubh!'
             }
         }
         stage('Check System Info') {
